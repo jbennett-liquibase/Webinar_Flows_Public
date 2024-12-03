@@ -6,17 +6,19 @@
 This repository contains demo scenarios for the "Azure DevOps and Liquibase Flows" webinar originally delivered on December 19th, 2024. Recordings of all webinars can be found [here](https://www.liquibase.com/videos).
 
 ## Demo Requirements
-Liquibase is a java based application with [minimal requirements](https://docs.liquibase.com/start/install/liquibase-requirements.html).
+Liquibase Pro is a java based application with [minimal requirements](https://docs.liquibase.com/start/install/liquibase-requirements.html).
 
-A pro key is required to utilize Liquibase Flows. A temporary key is provided for webinar attendees in the [liquibase.properties](liquibase.properties) file.
+A Pro key is required to utilize Liquibase Flows. A temporary key is provided for webinar attendees in the [liquibase.properties](liquibase.properties) file.
 
 If you need a new Pro key, you can request one [here](https://www.liquibase.com/trial).
 
 ## Demo Steps
-1. Clone this repository
+1. Clone this repository.
+    * [Instructions](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository)
 1. Download and Install Liquibase CLI
     * [Link](https://www.liquibase.com/download)
-1. Open Command Prompt and Start the H2 Database
+1. Open Command Prompt and Start an [H2 Database](https://contribute.liquibase.com/extensions-integrations/directory/database-tutorials/h2/)<br>
+  *H2 is a temporary in-memory database suitable for testing*
     ```
     liquibase init start-h2
     ```
