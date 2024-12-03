@@ -5,6 +5,13 @@
 # Welcome to Liquibase!
 This repository contains demo scenarios for the "Azure DevOps and Liquibase Flows" webinar originally delivered on December 19th, 2024. Recordings of all webinars can be found [here](https://www.liquibase.com/videos).
 
+## Demo Requirements
+Liquibase is a java based application with [minimal requirements](https://docs.liquibase.com/start/install/liquibase-requirements.html).
+
+A pro key is required to utilize Liquibase Flows. A temporary key is provided for webinar attendees in the [liquibase.properties](liquibase.properties) file.
+
+If you need a new Pro key, you can request one [here](https://www.liquibase.com/trial).
+
 ## Demo Steps
 1. Clone this repository
 1. Download and Install Liquibase CLI
