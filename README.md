@@ -17,7 +17,7 @@ This repository contains demo scenarios for the "Liquibase Flows" webinar origin
     ```
     liquibase flow
     ```
-    select option 3
+    *select option 3*
 1. Run the Workflow
     ```
     liquibase flow
