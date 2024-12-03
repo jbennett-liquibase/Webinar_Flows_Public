@@ -3,7 +3,7 @@
 </p>
 
 # Welcome to Liquibase!
-This repository contains demo scenarios for the "Liquibase Flows" webinar originally delivered on December 19th, 2024. Recordings of all webinars can be found [here](https://www.liquibase.com/videos).
+This repository contains demo scenarios for the "Azure DevOps and Liquibase Flows" webinar originally delivered on December 19th, 2024. Recordings of all webinars can be found [here](https://www.liquibase.com/videos).
 
 ## Demo Steps
 1. Clone this repository
