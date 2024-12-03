@@ -18,7 +18,7 @@ If you need a new Pro key, you can request one [here](https://www.liquibase.com/
 1. Download and Install Liquibase CLI
     * [Link](https://www.liquibase.com/download)
 1. Open Command Prompt and Start an [H2 Database](https://contribute.liquibase.com/extensions-integrations/directory/database-tutorials/h2/)<br>
-  *H2 is a temporary in-memory database suitable for testing*
+  H2 is a temporary in-memory database suitable for testing
     ```
     liquibase init start-h2
     ```
