@@ -9,14 +9,19 @@ This repository contains demo scenarios for the "Liquibase Flows" webinar origin
 1. Clone this repository
 1. Download and Install Liquibase CLI
     * [Link](https://www.liquibase.com/download)
-1. Open Command Prompt and Start the H2 Database<br>
-```liquibase init start-h2```
-1. Open New Command Prompt and Create Sample Flow<br>
-```liquibase flow```<br>
-select option 3
-1. Run the Workflow<br>
-```liquibase flow```    
-
+1. Open Command Prompt and Start the H2 Database
+    ```
+    liquibase init start-h2
+    ```
+1. Open New Command Prompt and Create Sample Flow
+    ```
+    liquibase flow
+    ```
+    select option 3
+1. Run the Workflow
+    ```
+    liquibase flow
+    ```    
 
 ## Liquibase Documentation
 * [Documentation Home](https://docs.liquibase.com/home.html)
