@@ -13,7 +13,7 @@ A Pro key is required to utilize Liquibase Flows. A temporary key is provided fo
 If you need a new Pro key, you can request one [here](https://www.liquibase.com/trial).
 
 ## Demo Steps
-1. Clone this repository.
+1. Clone this repository
     * [Instructions](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository)
 1. Download and Install Liquibase CLI
     * [Link](https://www.liquibase.com/download)
