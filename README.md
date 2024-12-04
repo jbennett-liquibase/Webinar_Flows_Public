@@ -15,7 +15,7 @@ If you need a new Pro key, you can request one [here](https://www.liquibase.com/
 ## Demo Steps
 1. Clone this repository
     * [Instructions](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository)
-1. Download and Install Liquibase CLI
+1. Download and install Liquibase CLI
     * [Installation Link](https://www.liquibase.com/download)
     * [Troubleshooting](https://docs.liquibase.com/start/install/liquibase-installation-troubleshooting.html)
 1. Open a command prompt (Windows) or shell (Linux/Mac) and start an [H2 Database](https://contribute.liquibase.com/extensions-integrations/directory/database-tutorials/h2/)<br>
