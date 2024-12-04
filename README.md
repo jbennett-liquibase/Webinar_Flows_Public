@@ -16,14 +16,16 @@ If you need a new Pro key, you can request one [here](https://www.liquibase.com/
 1. Clone this repository
     * [Instructions](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository)
 1. Download and Install Liquibase CLI
-    * [Link](https://www.liquibase.com/download)
-1. Open Command Prompt and Start an [H2 Database](https://contribute.liquibase.com/extensions-integrations/directory/database-tutorials/h2/)<br>
+    * [Installation Link](https://www.liquibase.com/download)
+    * [Troubleshooting](https://docs.liquibase.com/start/install/liquibase-installation-troubleshooting.html)
+1. Open a command prompt/shell and start an [H2 Database](https://contribute.liquibase.com/extensions-integrations/directory/database-tutorials/h2/)<br>
   H2 is a temporary in-memory database suitable for testing
     ```
     liquibase init start-h2
     ```
-    *Safe to close browser window*
-1. Open New Command Prompt and Create Sample Flow
+    *Safe to close browser window but leave command prompt/shell open*
+1. Open a new command prompt/shell and create sample flow<br>
+    Run Liquibase from where the repository was cloned
     ```
     liquibase flow
     ```
@@ -31,7 +33,8 @@ If you need a new Pro key, you can request one [here](https://www.liquibase.com/
 1. Run the Workflow
     ```
     liquibase flow
-    ```    
+    ```
+1. Congratulations! You have run your first Liquibase workflow.
 
 ## Liquibase Documentation
 * [Documentation Home](https://docs.liquibase.com/home.html)
